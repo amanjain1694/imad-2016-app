@@ -1,1 +1,2 @@
-console.log('Loaded!');
+var title = document.getElementById('title-bar');
+title.innerHTML = 'hello';
